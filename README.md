@@ -1,20 +1,36 @@
 # Task 7 – Suspicious Browser Extensions Review
 
-**Date:** 5th June 2025  
-**Browser Used:** Google Chrome  
-**Task Objective:** Check and remove suspicious extensions
+## 📅 Date
+5th June 2025
 
-## Steps Followed:
+## 🧠 Objective
+To identify and remove potentially harmful browser extensions in order to understand browser security risks and manage extensions effectively.
 
-1. Opened Chrome and typed `chrome://extensions`.
-2. Verified the list of installed extensions.
-3. No extensions were installed.
-4. As a result, no suspicious or unused extensions were found.
-5. Restarted the browser.
+## 🧰 Tools Used
+- Web Browser: Google Chrome
+- OS: Windows
 
-## Conclusion:
-My browser is clean with no installed extensions.
+## 🔎 Steps Followed
+1. Opened Google Chrome.
+2. Navigated to the extensions page by typing `chrome://extensions` in the address bar.
+3. Reviewed all installed extensions.
+4. Found that **no extensions were installed**.
+5. As a result, no suspicious or unused extensions were found or removed.
+6. Restarted the browser to ensure a fresh state.
 
-## Screenshot:
-![Screenshot 2025-06-05 211605](https://github.com/user-attachments/assets/c356a6ea-1c0c-4fca-a166-0c5cd9e05f86)
+## ✅ Outcome
+- No suspicious browser extensions found.
+- Browser confirmed to be clean.
+- Screenshot of the extensions page is included in the repository.
+
+## 🖼 Screenshot
+- ![Screenshot 2025-06-05 211605](https://github.com/user-attachments/assets/b2fb454b-bd3b-4bfd-a52b-3313b173487a)
+
+
+## 📚 Key Concepts Learned
+- How browser extensions can pose security risks.
+- Importance of checking extension permissions.
+- How to manage and remove unnecessary extensions.
+
+
 
